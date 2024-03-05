@@ -1,0 +1,19 @@
+.circle-img {
+    width: 100px;
+    height: auto;
+    border-radius: 100%;
+    overflow: hidden;
+    margin: auto;
+}
+
+.circle-img img {
+    width: 100px;
+    height: auto;
+    border-radius: 100%;
+    overflow: hidden;
+    margin: auto;
+}
+
+.h1{
+    color: aqua;
+}
